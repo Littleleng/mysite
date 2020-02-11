@@ -2,7 +2,7 @@
 {% load staticfiles %}
 
 {% block title %}
-    我的网站|首页
+    微冷的网站|首页
 {% endblock %}
 
 {% block header_extends %}
@@ -13,11 +13,15 @@
 {% block nav_home_active %}active{% endblock %}
 
 {% block content %}
-    <h3 class="home-content">欢迎访问我的网站，随便看</h3>
+    <h3 class="home-content">Welcome to my website, hope you can take something with you！</h3>
     <!-- 图表容器 DOM -->
     <div id="container"></div>
     <div class="hot-data">
         <h3>今天热门博客</h3>
+		<h3>土味情话生成器：<a href="http://www.innerken.com/CHP/?utm_source=qq&utm_medium=social">点击这里</a></h3>
+        <h3>免费kindle电子书：<a href="https://www.amazon.cn/Kindle%E5%85%8D%E8%B4%B9%E7%94%B5%E5%AD%90%E4%B9%A6/b/ref=sa_menu_kindle_l3_b116175071?ie=UTF8&node=116175071&utm_source=qq&utm_medium=social">点击这里</a></h3>
+        <h3>英雄时刻：<a href="http://qt.qq.com/v/hero/pc_index.html?game_id=2103041&file_uuid=a8d43dbf2fcb47c981a1d58a59faa188">点击这里</a></h3>
+        <h3>LOL免费换肤软件：<a href="http://leagueskin.net/">点击这里</a></h3>
         <ul>
             {% for hot_data in today_hot_data %}
                 <li><a href="{% url 'blog_detail' hot_data.content_object.pk %}">{{ hot_data.content_object.title }}</a>({{ hot_data.read_num }})</li>            
