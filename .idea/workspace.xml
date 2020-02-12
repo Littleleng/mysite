@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0146fc8-4bc6-4f64-bf7a-6bee7c6e6ef0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/30.导航栏添加用户操作.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/30.导航栏添加用户操作.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite_1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite_1/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite_1/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite_1/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +58,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../我的博客" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -103,6 +94,7 @@
       <workItem from="1578647079813" duration="781000" />
       <workItem from="1578647884326" duration="315000" />
       <workItem from="1578669338235" duration="1019000" />
+      <workItem from="1581471190297" duration="6341000" />
     </task>
     <servers />
   </component>
@@ -141,9 +133,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="181" y="353" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1578634552577" />
-    <state x="602" y="349" key="publish.login" timestamp="1578669400691">
+    <state x="602" y="349" key="publish.login" timestamp="1581471737764">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="602" y="349" key="publish.login/0.0.1536.864@0.0.1536.864" timestamp="1578669400691" />
+    <state x="602" y="349" key="publish.login/0.0.1536.864@0.0.1536.864" timestamp="1581471737764" />
   </component>
 </project>
