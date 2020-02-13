@@ -36,13 +36,13 @@ DATABASES = {
     }
 }
 '''
-DATABASE_PASSWORD = os.environ['DATABASE_PASSWORD']
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'mysite_db',
         'USER': 'root',
-        'PASSWORD': DATABASE_PASSWORD,
+        'PASSWORD': 'weileng',
         'HOST': 'localhost',
         'PORT': '3306',
     }
@@ -54,7 +54,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'#默认配置
 EMAIL_HOST = 'smtp.qq.com'
 EMAIL_PORT = 465
 EMAIL_HOST_USER = '1456227786@qq.com'
-EMAIL_HOST_PASSWORD = os.environ['EMAIL_HOST_PASSWORD']        #授权码
+EMAIL_HOST_PASSWORD = 'feegjflkcxkthidb'        #授权码
 EMAIL_SUBJECT_PREFIX = '微冷的博客'
 EMAIL_USE_SSL = True  #于smtp服务器通信，确定是否启动ssl连接，安全连接
 
