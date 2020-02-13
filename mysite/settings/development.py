@@ -54,6 +54,6 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'#默认配置
 EMAIL_HOST = 'smtp.qq.com'
 EMAIL_PORT = 25
 EMAIL_HOST_USER = '1456227786@qq.com'
-EMAIL_HOST_PASSWORD = 'feegjflkcxkthidb'        #授权码  'feegjflkcxkthidb'
+EMAIL_HOST_PASSWORD = 'mgleymzuobxtieje'        #授权码 
 EMAIL_SUBJECT_PREFIX = '微冷的博客'
 EMAIL_USE_TLS = True  #于smtp服务器通信，确定是否启动tls连接，安全连接
