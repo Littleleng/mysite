@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c0146fc8-4bc6-4f64-bf7a-6bee7c6e6ef0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings/development.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings/development.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings/production.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings/production.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +36,15 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>{% block other_buttons %}</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="657" />
+    <option name="y" value="22" />
+    <option name="width" value="1020" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectId" id="1WBYoAvEDenFogrflSOZ2sv1lXd" />
   <component name="ProjectViewState">
@@ -95,7 +98,15 @@
       <workItem from="1578647079813" duration="781000" />
       <workItem from="1578647884326" duration="315000" />
       <workItem from="1578669338235" duration="1019000" />
-      <workItem from="1581471190297" duration="20152000" />
+      <workItem from="1581471190297" duration="23932000" />
+      <workItem from="1581951052455" duration="15569000" />
+      <workItem from="1582008308055" duration="7000" />
+      <workItem from="1582385155467" duration="13000" />
+      <workItem from="1583212167582" duration="515000" />
+      <workItem from="1583213213858" duration="209000" />
+      <workItem from="1583213648293" duration="208000" />
+      <workItem from="1583213900149" duration="823000" />
+      <workItem from="1583214747737" duration="675000" />
     </task>
     <servers />
   </component>
@@ -106,10 +117,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="68" y="94" key="#Deployment" timestamp="1578635237067">
+    <state x="68" y="94" key="#Deployment" timestamp="1583215105191">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="68" y="94" key="#Deployment/0.0.1536.864@0.0.1536.864" timestamp="1578635237067" />
+    <state x="68" y="94" key="#Deployment/0.0.1536.864@0.0.1536.864" timestamp="1583215105191" />
     <state x="154" y="125" key="#Options" timestamp="1578634893581">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -134,9 +145,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="181" y="353" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1578634552577" />
-    <state x="602" y="349" key="publish.login" timestamp="1581471737764">
+    <state x="250" y="169" key="ftp.server.browser" timestamp="1583214639747">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="602" y="349" key="publish.login/0.0.1536.864@0.0.1536.864" timestamp="1581471737764" />
+    <state x="250" y="169" key="ftp.server.browser/0.0.1536.864@0.0.1536.864" timestamp="1583214639747" />
+    <state x="602" y="349" key="publish.login" timestamp="1583214029557">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="602" y="349" key="publish.login/0.0.1536.864@0.0.1536.864" timestamp="1583214029557" />
   </component>
 </project>
